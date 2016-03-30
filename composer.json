@@ -1,5 +1,5 @@
 {
-    "name": "ns/ace-sonata-doctring-orm-admin-bundle",
+    "name": "ns/ace-sonata-doctrine-orm-admin-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides ace template overrides to sonata doctrine orm",
     "minimum-stability": "stable",
