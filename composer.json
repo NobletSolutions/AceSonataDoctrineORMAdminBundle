@@ -17,7 +17,7 @@
     "require": {
         "php":                    ">=5.3.3",
 	"symfony/symfony":        ">=2.3",
-        "ns/ace-sonata-bundle":   "*"    
+        "ns/ace-sonata-bundle":   "~0.3"
     },
     "autoload": {
         "psr-4": { "NS\\AceSonataDoctrineORMAdminBundle\\": "" }
