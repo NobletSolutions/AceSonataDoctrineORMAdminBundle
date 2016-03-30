@@ -1,6 +1,6 @@
 <?php
 
-namespace NS\SonataDoctrineORMAdminBundle;
+namespace NS\AceSonataDoctrineORMAdminBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
