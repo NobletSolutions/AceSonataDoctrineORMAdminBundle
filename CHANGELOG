@@ -3,5 +3,6 @@ VERSION 0  INITIAL RELEASE
 ==========================
 
    Version 0.1 - Initial release
+      01/04/2016 09:28  0.1.2  Completely remove prototype calls
       30/03/2016 16:43  0.1.1  composer updates
       30/03/2016 16:41  0.1.0  initial release
