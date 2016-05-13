@@ -3,6 +3,7 @@ VERSION 0  INITIAL RELEASE
 ==========================
 
    Version 0.1 - Initial release
+      13/05/2016 09:48  0.1.4  Bugfix
       13/05/2016 09:29  0.1.3  Sonata override
       01/04/2016 09:28  0.1.2  Completely remove prototype calls
       30/03/2016 16:43  0.1.1  composer updates
