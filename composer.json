@@ -16,8 +16,11 @@
     ],
     "require": {
         "php":                    ">=5.3.3",
-	"symfony/symfony":        ">=2.3",
+	"symfony/symfony":        "~2.3|~2.7|~3.0",
         "ns/ace-sonata-bundle":   "~0.3"
+    },
+    "suggest": {
+        "ns/security-bundle": "Allows for securing queries automatically"
     },
     "autoload": {
         "psr-4": { "NS\\AceSonataDoctrineORMAdminBundle\\": "" }
