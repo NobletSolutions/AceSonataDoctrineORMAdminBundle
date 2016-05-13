@@ -12,7 +12,7 @@ use NS\SecurityBundle\Doctrine\SecuredEntityRepository;
 use Sonata\DoctrineORMAdminBundle\Model\ModelManager as BaseModelManager;
 use Sonata\DoctrineORMAdminBundle\Datagrid\ProxyQuery;
 
-class ModelManager
+class ModelManager extends BaseModelManager
 {
     /**
      * {@inheritdoc}
